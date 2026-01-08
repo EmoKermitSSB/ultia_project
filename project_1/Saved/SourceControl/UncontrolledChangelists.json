@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/ultia_project/project_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Right.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Right.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Right.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Right.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset",
+				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset",
+				"E:/ultia_project/project_1/Content/IdaFaber/Meshes/Girl/SK_MechanicGirl_01.uasset",
+				"E:/ultia_project/project_1/Content/Platformer/Maps/Example_map_01.umap",
+				"E:/ultia_project/project_1/Content/Platformer/Blueprints/Pl_Coin_01.uasset"
+			]
+		}
+	]
+}

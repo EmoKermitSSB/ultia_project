@@ -1,6 +1,6 @@
 regler les touches du personnage
 regler les métrique du personnage : hauteur de saut / peut être sa vitesse.
 ramasser des piéces. (lui expliquer le systéme du blueprint, programmation objet + systéme de noeuds)
-un assensseur qui va de haut en bas (peut être est il déja codé et il n'y a plus qu'a le mettre sur la scéne.)
+un acsenseur qui va de haut en bas (peut être est il déja codé et il n'y a plus qu'a le mettre sur la scéne.)
 faire une dead zone qui renvoit au player start.
 finir le level.

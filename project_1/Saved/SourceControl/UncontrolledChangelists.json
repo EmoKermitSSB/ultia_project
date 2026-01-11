@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/EmoKermit/Documents/Unreal Projects/ultia_project/project_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/EmoKermit/Documents/Unreal Projects/ultia_project/project_1/Content/Platformer/Blueprints/Pl_Coin_01.uasset",
+				"C:/Users/EmoKermit/Documents/Unreal Projects/ultia_project/project_1/Content/Platformer/Maps/Example_map_01.umap",
+				"C:/Users/EmoKermit/Documents/Unreal Projects/ultia_project/project_1/Content/Platformer/Maps/BP_Ascenseur.uasset",
+				"C:/Users/EmoKermit/Documents/Unreal Projects/ultia_project/project_1/Content/Platformer/Blueprints/BP_Ascenseur.uasset",
 				"E:/ultia_project/project_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset",
 				"E:/ultia_project/project_1/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset",
